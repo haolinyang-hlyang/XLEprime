@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XLEprime
-- 👀 I’m interested in Moyu
+- 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on Moyu
+- 💞️ I’m looking to collaborate on 摸鱼
 - 📫 How to reach me xleprime@gmail.com
 
 <!---
