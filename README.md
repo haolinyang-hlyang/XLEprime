@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XLEprime
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science at BUPT
 - 📫 How to reach me xleprime@gmail.com
 
 <!---
